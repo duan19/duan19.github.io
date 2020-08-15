@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://duan19@github.io</id>
     <title>everlastingr</title>
-    <updated>2020-08-15T03:24:59.303Z</updated>
+    <updated>2020-08-15T03:40:22.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://duan19@github.io"/>
     <link rel="self" href="https://duan19@github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://duan19@github.io/post/hello-gridea/</id>
         <link href="https://duan19@github.io/post/hello-gridea/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
+        <updated>2018-12-11T19:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 ]]></summary>
@@ -25,8 +25,8 @@
 <p><a href="https://github.com/getgridea/gridea">Github</a><br>
 <a href="https://gridea.dev/">Gridea 主页</a><br>
 <a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>特性👇<br>
+📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
 <p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
 <p>🏷️  你可以对文章进行标签分组</p>
 <p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
