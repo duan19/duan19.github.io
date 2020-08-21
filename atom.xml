@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://everlastingr.com</id>
     <title>everlastingr</title>
-    <updated>2020-08-15T08:12:47.724Z</updated>
+    <updated>2020-08-21T14:15:56.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://everlastingr.com"/>
     <link rel="self" href="https://everlastingr.com/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://everlastingr.com/images/avatar.png</logo>
     <icon>https://everlastingr.com/favicon.ico</icon>
     <rights>All rights reserved 2020, everlastingr</rights>
+    <entry>
+        <title type="html"><![CDATA[COVID-19 Updates]]></title>
+        <id>https://everlastingr.com/post/covid-19-updates/</id>
+        <link href="https://everlastingr.com/post/covid-19-updates/">
+        </link>
+        <updated>2020-08-21T16:14:06.000Z</updated>
+        <content type="html"><![CDATA[<p>https://www.health.gov.au/news/health-alerts/novel-coronavirus-2019-ncov-health-alert/coronavirus-covid-19-current-situation-and-case-numbers<br>
+<img src="https://everlastingr.com/post-images/1598019344325.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Markdown 语法 📖]]></title>
+        <id>https://everlastingr.com/post/markdown-yu-fa/</id>
+        <link href="https://everlastingr.com/post/markdown-yu-fa/">
+        </link>
+        <updated>2020-08-15T10:16:15.000Z</updated>
+        <content type="html"><![CDATA[<p>test</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[👋 Hello~]]></title>
         <id>https://everlastingr.com/post/Home Page/</id>
