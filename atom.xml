@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://everlastingr.com</id>
     <title>everlastingr</title>
-    <updated>2020-08-31T13:02:12.624Z</updated>
+    <updated>2020-08-31T13:20:04.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://everlastingr.com"/>
     <link rel="self" href="https://everlastingr.com/atom.xml"/>
@@ -15,9 +15,9 @@
         <id>https://everlastingr.com/post/ai-generated-human-face/</id>
         <link href="https://everlastingr.com/post/ai-generated-human-face/">
         </link>
-        <updated>2020-08-31T14:55:36.000Z</updated>
-        <content type="html"><![CDATA[<p>Attached is a picture of an AI Generated Human Face, you should be able to get another new one whenever you enter this page. XD.</p>
-<p>You can go to this link to get one as well: https://fakeface.rest/face/view</p>
+        <updated>2020-08-31T18:55:36.000Z</updated>
+        <content type="html"><![CDATA[<p>Attached is a picture of an AI Generated Human Face, you should be able to get a new picture whenever you enter this page again or refresh the page. XD.</p>
+<p>You can also <a href="https://fakeface.rest/face/view">Click Here</a> to get one as well.</p>
 <p><em>Source: https://github.com/hankhank10/fakeface#inserting-into-html</em></p>
 ]]></content>
     </entry>
