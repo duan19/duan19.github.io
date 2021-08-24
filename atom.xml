@@ -2,14 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://everlastingr.com</id>
     <title>everlastingr</title>
-    <updated>2020-09-10T13:31:05.345Z</updated>
+    <updated>2021-08-24T17:21:33.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://everlastingr.com"/>
     <link rel="self" href="https://everlastingr.com/atom.xml"/>
     <subtitle>X D</subtitle>
     <logo>https://everlastingr.com/images/avatar.png</logo>
     <icon>https://everlastingr.com/favicon.ico</icon>
-    <rights>All rights reserved 2020, everlastingr</rights>
+    <rights>All rights reserved 2021, everlastingr</rights>
+    <entry>
+        <title type="html"><![CDATA[每日食谱]]></title>
+        <id>https://everlastingr.com/post/menu/</id>
+        <link href="https://everlastingr.com/post/menu/">
+        </link>
+        <updated>2021-08-24T17:18:56.000Z</updated>
+        <content type="html"><![CDATA[<p>今日食谱 25 AUG 2021</p>
+<p>**早餐 **<br>
+香蕉奶昔🍌🥛+711巧克力面包🍫🍞<br>
+**午餐  **<br>
+煎饺🥟+凉拌西红柿🍅<br>
+**下午水果  **<br>
+半个火龙果/西瓜汁🍉<br>
+**晚餐 **<br>
+三文鱼盖饭🍣<br>
+煮绿豆汤/绿豆沙</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Victorian coronavirus (COVID-19) data]]></title>
         <id>https://everlastingr.com/post/victorian-coronavirus-covid-19-data/</id>
@@ -56,7 +74,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[👋 Hello~]]></title>
+        <title type="html"><![CDATA[👋 READ.ME 欢迎]]></title>
         <id>https://everlastingr.com/post/Home Page/</id>
         <link href="https://everlastingr.com/post/Home Page/">
         </link>
