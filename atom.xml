@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://everlastingr.com</id>
     <title>everlastingr</title>
-    <updated>2021-11-08T15:34:35.120Z</updated>
+    <updated>2021-11-08T15:39:44.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://everlastingr.com"/>
     <link rel="self" href="https://everlastingr.com/atom.xml"/>
-    <subtitle>X D</subtitle>
+    <subtitle>“人呐就都不知道 自己就不可以预料”</subtitle>
     <logo>https://everlastingr.com/images/avatar.png</logo>
     <icon>https://everlastingr.com/favicon.ico</icon>
     <rights>All rights reserved 2021, everlastingr</rights>
