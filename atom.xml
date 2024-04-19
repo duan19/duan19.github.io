@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://everlastingr.com</id>
-    <title>everlastingr</title>
+    <id>https://ericduan.com</id>
+    <title>Eric Duan</title>
     <updated>2022-06-30T13:34:34.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://everlastingr.com"/>
-    <link rel="self" href="https://everlastingr.com/atom.xml"/>
+    <link rel="alternate" href="https://ericduan.com"/>
+    <link rel="self" href="https://ericduan.com/atom.xml"/>
     <subtitle>“人呐就都不知道 自己就不可以预料”</subtitle>
-    <logo>https://everlastingr.com/images/avatar.png</logo>
-    <icon>https://everlastingr.com/favicon.ico</icon>
-    <rights>All rights reserved 2022, everlastingr</rights>
+    <logo>https://ericduan.com/images/avatar.png</logo>
+    <icon>https://ericduan.com/favicon.ico</icon>
+    <rights>All rights reserved 2022, Eric Duan</rights>
     <entry>
         <title type="html"><![CDATA[Victorian coronavirus (COVID-19) data]]></title>
-        <id>https://everlastingr.com/post/victorian-coronavirus-covid-19-data/</id>
-        <link href="https://everlastingr.com/post/victorian-coronavirus-covid-19-data/">
+        <id>https://ericduan.com/post/victorian-coronavirus-covid-19-data/</id>
+        <link href="https://ericduan.com/post/victorian-coronavirus-covid-19-data/">
         </link>
         <updated>2020-09-03T18:36:08.000Z</updated>
         <content type="html"><![CDATA[<p><strong>Victorian coronavirus (COVID-19) data</strong></p>
-<figure data-type="image" tabindex="1"><img src="https://everlastingr.com/post-images/1599744391064.png" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="2"><img src="https://everlastingr.com/post-images/1599744638253.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://ericduan.com/post-images/1599744391064.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://ericduan.com/post-images/1599744638253.png" alt="" loading="lazy"></figure>
 <p><a> https://www.dhhs.vic.gov.au/victorian-coronavirus-covid-19-data </a><br>
 <a> https://www.covid19data.com.au/ </a></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI Generated Human Face]]></title>
-        <id>https://everlastingr.com/post/ai-generated-human-face/</id>
-        <link href="https://everlastingr.com/post/ai-generated-human-face/">
+        <id>https://ericduan.com/post/ai-generated-human-face/</id>
+        <link href="https://ericduan.com/post/ai-generated-human-face/">
         </link>
         <updated>2020-08-31T18:55:36.000Z</updated>
         <content type="html"><![CDATA[<p>Attached is a picture of an AI Generated Human Face, you should be able to get a new picture whenever you enter this page again or refresh the page. XD.</p>
@@ -36,8 +36,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[👋 READ.ME 欢迎]]></title>
-        <id>https://everlastingr.com/post/Home Page/</id>
-        <link href="https://everlastingr.com/post/Home Page/">
+        <id>https://ericduan.com/post/Home Page/</id>
+        <link href="https://ericduan.com/post/Home Page/">
         </link>
         <updated>2020-08-15T03:00:00.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
